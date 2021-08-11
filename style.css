@@ -193,7 +193,6 @@ main {
     max-width: 300px;
     height: 250px;
     margin: 0 auto;
-    box-shadow: 11px 12px 12px -11px rgba(0,0,0,0.37);
 }
 
 .currency-table--container table {
@@ -223,7 +222,7 @@ main {
 }
 
 .currency-table--container .table__bottom-right {
-    border-radius: 0 0 15px 0;
+    border-radius: 0 0 15px 0px;
 }
 
 .currency-table--container .table__right {
