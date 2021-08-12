@@ -397,3 +397,31 @@ main {
     color: #808080;
 }
 
+.bitcoin-img-container {
+    position: relative;
+    width: 100%;
+    min-width: 320px;
+    height: 50vh;
+    background-image: url("./assets/imgs/bitcoinbaby2x.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bitcoin-batata-logo {
+    position:absolute;
+    width: 40px;
+    height: 25px;
+    top: -11px;
+    left: calc(50% - 20px);
+    background-image: url("./assets/icons/batata.svg");
+}
+
+.bitcoin-img-container h2{
+    padding-top: 60px;
+    font-size: 2.4rem;
+    line-height: 2.6rem;
+    font-weight: 700;
+    color: var(--just-white);
+    text-align: center;
+}
