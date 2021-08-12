@@ -497,7 +497,7 @@ main {
     height: 31px;
     left: calc(50% - 50px);
     top: -15px;
-    background-color:#0e90cd;
+    background-color:#757373;
     border-radius: 8px;
     font-family: 'inter',sans-serif;
     font-size: 1.2rem;
@@ -512,7 +512,7 @@ main {
     height: 31px;
     left: calc(50% - 50px);
     top: -15px;
-    background-color: #31d72b;
+    background-color: #757373;
     border-radius: 8px;
     font-family: 'inter',sans-serif;
     font-size: 1.2rem;
