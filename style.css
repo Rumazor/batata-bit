@@ -162,7 +162,6 @@ main {
     width:70%;
     min-width: 235px;
     max-width: 500px;
-    height: 700px;
     margin: 0 auto;
     font-family: 'Inter', sans-serif;
 }
@@ -582,7 +581,7 @@ main {
 
 .plans-container--slider {
     display:flex;
-    height: 316px;
+    height: 320px;
     overflow-x: scroll;
     overscroll-behavior-x: contain;
     scroll-snap-type: x proximity;

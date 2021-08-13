@@ -1,0 +1,35 @@
+html {
+    font-size: 65%;
+}
+
+.product-cards--container {
+    display:flex;
+    flex-wrap: wrap;
+    width:960px;
+    margin: 0 auto;
+}
+
+
+.plans-container--slider {
+    justify-content: center;
+    overflow:hidden;
+}
+
+.main-tables-container {
+    display:flex;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.main-tables-container, 
+.main-product-detail {
+    padding-bottom: 64px;
+}
+
+.main-currency-table .table--title {
+    margin-top: 0;
+}
+
+.main-currency-table {
+    margin: 0;
+}
